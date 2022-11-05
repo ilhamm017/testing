@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "thouka",
+    "password": 180618,
+    "database": "photoAlbum_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "thouka",
+    "password": 180618,
+    "database": "photoAlbum_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
